@@ -15,5 +15,5 @@
   
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL2002MI08&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AL2002MI08&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AL2002MI08&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL2002MI08&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
