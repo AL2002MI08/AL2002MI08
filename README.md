@@ -6,12 +6,12 @@
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, TailwindCSS, TypeScript
+- **Backend:** Node.js, Nest.js, Express.js
+- **Database:** MongoDB, TypeORM, SQL 
 - **Tools:** Git, GitHub, VS Code, GitLab, Webpack, Kanban
 
 ## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js
+- Advanced concepts in Nest.js
   
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL2002MI08&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
