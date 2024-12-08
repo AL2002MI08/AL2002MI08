@@ -11,7 +11,7 @@
 - **Tools:** Git, GitHub, VS Code, GitLab, Webpack, Kanban
 
 ## 🌱 Currently Learning
-- Advanced concepts in Nest.js
+- Advanced concepts in Nest.js and React Native
   
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL2002MI08&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
