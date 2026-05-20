@@ -2,16 +2,16 @@
 # 👋 Hi, I'm Alexandra Mizero!
 
 ## 🚀 About Me
-I’m a Software Developer and QA Tester passionate about building dynamic, end-to-end tested web and mobile applications using modern technologies like React. I enjoy transforming ideas into clean, efficient code with intuitive, user-friendly designs, focusing on responsiveness and smooth user experiences. Committed to continuous learning, I thrive in collaborative environments where quality, innovation, and growth are prioritized.
+I’m a Software Engineer passionate about building dynamic, end-to-end tested web and mobile applications using modern technologies like React. I enjoy transforming ideas into clean, efficient code with intuitive, user-friendly designs, focusing on responsiveness and smooth user experiences. Committed to continuous learning, I thrive in collaborative environments where quality, innovation, and growth are prioritized.
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, TailwindCSS, TypeScript
-- **Backend:** Node.js, Nest.js, Express.js, Java
+- **Backend:** Node.js, Nest.js, Express.js, Java, Python, FastAPI
 - **Database:** MongoDB, TypeORM, SQL, Supabase, Postgres
 - **Tools:** Git, GitHub, VS Code, GitLab, Webpack, Kanban, Jira, Trello
 
 ## 🌱 Currently Learning
-- Advanced concepts in Selenium
+- Advanced concepts in LLMs
   
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL2002MI08&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
