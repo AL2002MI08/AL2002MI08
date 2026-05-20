@@ -5,7 +5,7 @@
 I’m a Software Engineer passionate about building dynamic, end-to-end tested web and mobile applications using modern technologies like React. I enjoy transforming ideas into clean, efficient code with intuitive, user-friendly designs, focusing on responsiveness and smooth user experiences. Committed to continuous learning, I thrive in collaborative environments where quality, innovation, and growth are prioritized.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TailwindCSS, TypeScript
+- **Frontend:** React,Next.js JavaScript, TailwindCSS, TypeScript
 - **Backend:** Node.js, Nest.js, Express.js, Java, Python, FastAPI
 - **Database:** MongoDB, TypeORM, SQL, Supabase, Postgres
 - **Tools:** Git, GitHub, VS Code, GitLab, Webpack, Kanban, Jira, Trello
